@@ -1,4 +1,4 @@
-package github.com/shockliu/tools/duputl
+package duputl
 
 import (
   "time"

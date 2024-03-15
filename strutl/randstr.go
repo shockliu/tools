@@ -1,4 +1,4 @@
-package github.com/shockliu/tools/strutl
+package strutl
 
 import (
 	"math/rand"

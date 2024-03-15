@@ -1,3 +1,3 @@
-module util
+module github.com/shockliu/tools
 
-go 1.21.0
+go 1.22.1
